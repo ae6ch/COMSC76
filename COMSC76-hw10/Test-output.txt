@@ -1,0 +1,10 @@
+$ java BstVsAvl
+
+Comparison of Results:
+Operation            | BST Time (ns)   | AVL Time (ns)   | Faster Tree
+Fill                 | 124853834       | 342533166       | BST
+Shuffle1             | 228865291       | 509619042       | BST
+Search               | 4459            | 4583            | BST
+Shuffle2             | 196617625       | 492598375       | BST
+Clear                | 1750            | 208             | AVL
+TotalTime            | 555512541       | 1344830167      | BST

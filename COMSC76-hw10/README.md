@@ -1,0 +1,3 @@
+Fully implement the BST class in Listing 25.4 (on page 961 of the 11th Edition of the text).  Design and write a (main) driver program to completely test every method in the BST class to ensure the class meets all its requirements. You should read the Listing 25.5: TestBST.java for an idea of what your program should look like.
+
+Extra Credit (10 Points): Write a test program that randomly generates 500,000 numbers and inserts them into a BST, reshuffles the 500,000 numbers and performs a search, and reshuffles the numbers again before deleting them from the tree. Do the same thing using an AVL tree. Make sure to have the program compare the running times for completing all of these tasks for these two different trees.
